@@ -1,7 +1,7 @@
 # A node.js rest api
-* It fetches the lyrics from genuis api and return the data *
+* It fetches the lyrics from genuis api and return the data 
 
-* This rest api is deployed on heroku you can use it if you want *
+* This rest api is deployed on heroku you can use it if you want
 
 ## See how it works to fetch the lyrics
 http://www.server.com/lyrics/musicTitle/artistName
