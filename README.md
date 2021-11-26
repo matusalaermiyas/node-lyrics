@@ -5,8 +5,10 @@
 
 ## See how it works to fetch the lyrics
 http://www.server.com/lyrics/musicTitle/artistName
+<br />
 https://lyricallly.herokuapp.com/lyrics/star%20boy/the%20weeknd
 
 ## See how it works to fetch the music cover
 http://www.server.com/art/musicTitle/artistName
+<br />
 https://lyricallly.herokuapp.com/art/star%20boy/the%20weeknd
