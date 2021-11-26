@@ -4,11 +4,11 @@
 * This rest api is deployed on heroku you can use it if you want
 
 ## See how it works to fetch the lyrics
-http://www.server.com/lyrics/musicTitle/artistName
+Example http://www.server.com/lyrics/musicTitle/artistName
 <br />
-https://lyricallly.herokuapp.com/lyrics/star%20boy/the%20weeknd
+Working https://lyricallly.herokuapp.com/lyrics/star%20boy/the%20weeknd
 
 ## See how it works to fetch the music cover
-http://www.server.com/art/musicTitle/artistName
+Example http://www.server.com/art/musicTitle/artistName
 <br />
-https://lyricallly.herokuapp.com/art/star%20boy/the%20weeknd
+Working https://lyricallly.herokuapp.com/art/star%20boy/the%20weeknd
