@@ -12,3 +12,6 @@ Working https://lyricallly.herokuapp.com/lyrics/star%20boy/the%20weeknd
 Example http://www.server.com/art/musicTitle/artistName
 <br />
 Working https://lyricallly.herokuapp.com/art/star%20boy/the%20weeknd
+
+## Full working with react
+https://lyricallly.web.app
